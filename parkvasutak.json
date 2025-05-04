@@ -13,90 +13,144 @@
         "latogathatosag_leirasa": "A parkvasút látogatható a nyári hónapokban, minden hétvégén és ünnepnapokon. Kérjük, ellenőrizze a weboldalon a pontos menetrendet.",
         "allapot": "működik",
         "leiras": "Ez egy példa parkvasút, amely a város közepén található. Számos látogatót vonz a nyári hónapokban."
-      },
-    {
-      "nev": "Minta Parkvasút 1",
-      "gps": "47.1234, 19.5678",
-      "gps_pontossag": 0,
-      "hossz": "350 m",
-      "weblap": "https://example.com/1",
-      "uzemelteto": "Park Egyesület",
-      "alapitas": 2010,
-      "jarmupark": "gőzmozdonyok és kocsik",
-      "kulonlegesseg": "gőzmozdonyok és kocsik gyűjteménye",
-      "latogathatosag": "menetrend szerint látogatható",
-      "latogathatosag_leirasa": "A parkvasút látogatható a nyári hónapokban, minden hétvégén és ünnepnapokon. Kérjük, ellenőrizze a weboldalon a pontos menetrendet.",
-      "allapot": "működik",
-      "leiras": "Ez egy példa parkvasút, amely a város közepén található. Számos látogatót vonz a nyári hónapokban."
     },
     {
-      "nev": "Minta Parkvasút 2",
-      "gps": "46.9876, 18.4321",
-      "hossz": "500 m",
-      "weblap": "https://example.com/2",
-      "uzemelteto": "Magánszemély",
-      "alapitas": 2022,
-      "latogathatosag": "magán (nem látogatható)",
-      "allapot": "építés alatt"
+        "nev": "A Magyar Vasúttörténeti Park Kerti Vasútja",
+        "gps": "47.5418935,19.0961128",
+        "hossz": "870 m",
+        "weblap": "https://www.facebook.com/vasuttortenetipark.kertivasut/",
+        "uzemelteto": "Magyar Vasúttörténeti Park",
+        "alapitas": 2006,
+        "jarmupark": "Gőzmozdonyok, dízel- és elektromos vonatok, összesen legalább 10 jármű",
+        "kulonlegesseg": "A legnagyobb kerti vasút Magyarországon. Van, hogy vonat rajongók is elhozhatják saját mozdonyukat egy-egy napra.",
+        "latogathatosag": "menetrend szerint látogatható",
+        "allapot": "működik",
+        "leiras": "A Magyar Vasúttörténeti Park Kerti Vasútja a legnagyobb kerti vasút Magyarországon. A kerti vasút mindenben próbálja hűen modellezni a valódi vasút működését, ezért a kereszteződésekben a miniatűr fénysorompók automatikusan pirosra váltva jelzik a vonat érkezését. A Nemzetközi Modellvasúti Szabályoknak minden szempontból megfelelő biztonsággal épült pályában elektronikus csomópontok szabályozzák a két, egyszerre közlekedő vonat haladását, elkerülve ezzel az összeütközést. <a href=\"https://vasuttortenetipark.hu/interaktiv-programok/#kerti-vasut\">(forrás)</a>"
     },
     {
-      "nev": "Minta Parkvasút 3",
-      "gps": "47.4567, 19.8765",
-      "hossz": "220 m",
-      "weblap": "https://example.com/3",
-      "uzemelteto": "MiniVasút Klub",
-      "alapitas": 2005,
-      "latogathatosag": "akár látogatható bizonyos körülmények között",
-      "allapot": "működik"
+        "nev": "Királyréti kerti vasút",
+        "gps": "47.8960473,18.9795191",
+        "hossz": "650 m",
+        "uzemelteto": "Magánszemély",
+        "alapitas": 2014,
+        "latogathatosag": "akár látogatható bizonyos körülmények között",
+        "allapot": "nem üzemel",
+        "leiras": "2020 környékén szűnhetett meg rajta a forgalom, a pálya jelenleg még ott van, kis erőbefektetéssel használható. A tulajdonos nyitott az ilyen működésre."
     },
     {
-      "nev": "Minta Parkvasút 4",
-      "gps": "47.2398, 19.1234",
-      "hossz": "400 m",
-      "weblap": "https://example.com/4",
-      "uzemelteto": "Gyermekvasút Alapítvány",
-      "alapitas": 1999,
-      "latogathatosag": "menetrend szerint látogatható",
-      "allapot": "működik"
+        "nev": "Katalinpusztai Hangyavasút",
+        "gps": "47.8493157,19.1018831",
+        "weblap": "https://www.facebook.com/p/Katalinpusztai-Kir%C3%A1ndul%C3%B3k%C3%B6zpont-%C3%A9s-Erdei-Iskola-100064731768695/",
+        "uzemelteto": "Katalinpusztai Kirándulóközpont és Erdei Iskola",
+        "alapitas": 2016,
+        "latogathatosag": "menetrend szerint látogatható",
+        "allapot": "működik"
     },
     {
-      "nev": "Minta Parkvasút 5",
-      "gps": "46.8234, 17.4567",
-      "hossz": "150 m",
-      "weblap": "https://example.com/5",
-      "uzemelteto": "Magánszemély",
-      "alapitas": 2015,
-      "latogathatosag": "magán (nem látogatható)",
-      "allapot": "nem üzemel"
+        "nev": "Keszthely - Történelmi modellvasút kiállítás és Vadászati Múzeum",
+        "gps": "46.7718451,17.2381391",
+        "alapitas": 2012,
+        "hossz": "500 m",
+        "weblap": "https://festeticskastely.hu/belepojegy-arak/",
+        "kulonlegesseg": "Itt található Közép-Európa legnagyobb terepasztala is",
+        "latogathatosag": "menetrend szerint látogatható",
+        "allapot": "működik",
+        "leiras": "Érdekesebb viszont a park másik oldalán létrehozott kertivasút pálya, ahol egy valódi szénnel fűtött gőzmozdony és egy \"akkumulátoros\" dízelmozdony vontatta kocsikon lehet parkvasutazni őszig. A vonatozás kb. 5-6 perces időtartamra, közel 500 méteres úton vehető igénybe."
+
     },
     {
-      "nev": "Minta Parkvasút 6",
-      "gps": "47.7890, 18.2345",
-      "hossz": "300 m",
-      "weblap": "https://example.com/6",
-      "uzemelteto": "Parkvasút Klub",
-      "alapitas": 2001,
-      "latogathatosag": "akár látogatható bizonyos körülmények között",
-      "allapot": "működik"
+        "nev": "Vasparipa Játszópark",
+        "uzemelteto": "Kemenes Vulkán Park",
+        "weblap": "https://kemenesvulkanpark.hu/vasparipa.html",
+        "gps": "47.2333931,17.1303873",
+        "alapitas": 2024,
+        "hossz": "700 m",
+        "latogathatosag": "menetrend szerint látogatható",
+        "allapot": "működik"
     },
     {
-      "nev": "Minta Parkvasút 7",
-      "gps": "46.7890, 19.4567",
-      "hossz": "600 m",
-      "weblap": "https://example.com/7",
-      "uzemelteto": "Kertvasút Egyesület",
-      "alapitas": 1995,
-      "latogathatosag": "menetrend szerint látogatható",
-      "allapot": "működik"
+        "nev": "Zamárdi Kalandpark",
+        "gps": "46.885513,17.969513",
+        "weblap": "https://zamardikalandpark.hu/project/elmenygozos/",
+        "jarmupark": "dízel és gőzmozdony",
+        "latogathatosag": "menetrend szerint látogatható",
+        "allapot": "működik",
+        "leiras": "Az egész parkot bejáró, mesterséges tavunk mentén végigrobogó, alagúton és hídon átpöfögő minimozdony pontosan az, aminek látszik: az eredetivel minden apró részletében megegyező, valóban szénnel és vízzel működő igazi gőzmozdony – amely a masiniszta derekáig ér.<br/><br/>Főszezonon kívül gőzös helyett dízelmozdony húzza a szerelvényt."
     },
     {
-      "nev": "Minta Parkvasút 8",
-      "gps": "47.1111, 18.9999",
-      "hossz": "100 m",
-      "weblap": "https://example.com/8",
-      "uzemelteto": "Helyi Vasútbarátok Köre",
-      "alapitas": 1988,
-      "latogathatosag": "magán (nem látogatható)",
-      "allapot": "nyoma is alig van"
+        "nev": "Szigethalmi Vadaspark",
+        "gps": "47.3064656,19.0069641",
+        "hossz":"1000 m",
+        "alapitas": 2017,
+        "weblap": "https://www.szigethalmivadaspark.hu/kisvasut-2/",
+        "leiras": "Van egy 5 colos pálya is. A másik vasútvonal 1kör teljes hossza jelenleg kb. 1000m. A nyomvonal szép erdei környezetben, gyönyörű vasúti hídon, majd egy alagúton vezet át. A vonat rendes sín profilú sínen közlekedik, TÜV minősített és egyszerre 30 személy szállítására alkalmas. Ezzel a vasúttal lehet eljutni a Vadmentő Központunkig. A teljes vasútvonalat a Vadaspark munkatársai építették, szintén egy vasúti mérnök segítségével. Az építési munkálatok 8 hónapot vettek igénybe.",
+        "latogathatosag": "menetrend szerint látogatható",
+        "allapot": "működik"
+    },
+    {
+        "nev": "Budakeszi Törpevasút",
+        "gps": "47.5257318,18.9261308",
+        "uzemelteto": "Budakeszi Vadaspark",
+        "alapitas": 2022,
+        "hossz": "200 m",
+        "weblap": "https://budakeszivadaspark.hu/hirek/torpevasut/", 
+        "latogathatosag": "menetrend szerint látogatható",
+        "allapot": "működik",
+        "leiras": "20 főt tud vinni egyszerre"
+    },         
+    {
+        "nev": "Dinnyés Várpark Kisvasút",
+        "gps": "47.17560429999999,18.5628169",
+        "alapitas": 2025,
+        "weblap": "https://www.facebook.com/varpark",
+        "hossz": "540 m",
+        "latogathatosag": "menetrend szerint látogatható",
+        "jarmupark": "Kos és Jerke",
+        "allapot": "működik",
+        "leiras": "Svájcból érkeztek a sínek, melyeken 400 köbcentis benzines Honda motoros mozdony húz négy kocsit. 20-30 fő tud utazni a vonaton, attól függően, hogy hány felnőtt és hány gyermek ül rá. A szerelvények menetrend szerint, fél óránként közlekednek, kényelmes tempóban: a fél kilométeres szakaszon 8-10 perc a menetidő. A vonat teljesen körbejárja a két hektáros Skanzent"
+    },         
+    {
+        "nev": "Malomkert Hotel és Étterem kertje",
+        "gps": "47.93617,18.830594",
+        "alapitas": 2023,
+        "weblap": "https://www.facebook.com/p/Malomkert-Hotel-%C3%A9s-%C3%89tterem-100039873050861/",
+        "latogathatosag": "menetrend szerint látogatható",
+        "allapot": "működik",
+        "leiras": "Ide készült a Vasúttörténeti park zöld, 1:3 építési arányú C50-es mozdonya.",
+        "kulonlegesseg": "Áthalad a Börzsöny-patak felett is hazánk legnagyobb kisvonat hídján."
+    },         
+    {
+        "nev": "Igali termálfürdő",
+        "gps": "46.5426688,17.9443054",
+        "latogathatosag": "menetrend szerint látogatható",  
+        "allapot": "nyoma is alig van"
+    },
+    
+    {
+        "nev": "Verőcei Kerti Vasút",
+        "gps": "47.8319833,19.0398188",
+        "gps_pontossag": 0,
+        "latogathatosag": "magán (nem látogatható)",
+        "allapot": "működik"
+    },                             
+    {
+        "nev": "Péceli Kertivasút",
+        "gps": "47.4936688,19.3388572",
+        "gps_pontossag": 0,
+        "weblap": "https://www.facebook.com/share/1BwsmqPfQi/",
+        "latogathatosag": "magán (nem látogatható)",
+        "allapot": "működik"
+    },
+    {
+        "nev": "Szent József vasútja",
+        "gps": "46.2516368,20.1435305",
+        "uzemelteto": "Szent József jezsuita templomigazgatóság",
+        "alapitas": 2024,
+        "hossz": "60 m",
+        "jarmupark": "házi készítésű elektromos mozdonyka",
+        "kulonlegesseg": "A templom udvarán üzemel. Kisgyerekek is vezethetik",
+        "weblap": "https://www.facebook.com/SztJozsefSzeged",
+        "latogathatosag": "akár látogatható bizonyos körülmények között",
+        "allapot": "működik"
     }
 ]
