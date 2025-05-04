@@ -1,0 +1,102 @@
+[
+    {
+        "nev": "Minta Parkvasút 1",
+        "gps": "47.1234, 19.5678",
+        "gps_pontossag": 0,
+        "hossz": "350 m",
+        "weblap": "https://example.com/1",
+        "uzemelteto": "Park Egyesület",
+        "alapitas": 2010,
+        "jarmupark": "gőzmozdonyok és kocsik",
+        "kulonlegesseg": "gőzmozdonyok és kocsik gyűjteménye",
+        "latogathatosag": "menetrend szerint látogatható",
+        "latogathatosag_leirasa": "A parkvasút látogatható a nyári hónapokban, minden hétvégén és ünnepnapokon. Kérjük, ellenőrizze a weboldalon a pontos menetrendet.",
+        "allapot": "működik",
+        "leiras": "Ez egy példa parkvasút, amely a város közepén található. Számos látogatót vonz a nyári hónapokban."
+      },
+    {
+      "nev": "Minta Parkvasút 1",
+      "gps": "47.1234, 19.5678",
+      "gps_pontossag": 0,
+      "hossz": "350 m",
+      "weblap": "https://example.com/1",
+      "uzemelteto": "Park Egyesület",
+      "alapitas": 2010,
+      "jarmupark": "gőzmozdonyok és kocsik",
+      "kulonlegesseg": "gőzmozdonyok és kocsik gyűjteménye",
+      "latogathatosag": "menetrend szerint látogatható",
+      "latogathatosag_leirasa": "A parkvasút látogatható a nyári hónapokban, minden hétvégén és ünnepnapokon. Kérjük, ellenőrizze a weboldalon a pontos menetrendet.",
+      "allapot": "működik",
+      "leiras": "Ez egy példa parkvasút, amely a város közepén található. Számos látogatót vonz a nyári hónapokban."
+    },
+    {
+      "nev": "Minta Parkvasút 2",
+      "gps": "46.9876, 18.4321",
+      "hossz": "500 m",
+      "weblap": "https://example.com/2",
+      "uzemelteto": "Magánszemély",
+      "alapitas": 2022,
+      "latogathatosag": "magán (nem látogatható)",
+      "allapot": "építés alatt"
+    },
+    {
+      "nev": "Minta Parkvasút 3",
+      "gps": "47.4567, 19.8765",
+      "hossz": "220 m",
+      "weblap": "https://example.com/3",
+      "uzemelteto": "MiniVasút Klub",
+      "alapitas": 2005,
+      "latogathatosag": "akár látogatható bizonyos körülmények között",
+      "allapot": "működik"
+    },
+    {
+      "nev": "Minta Parkvasút 4",
+      "gps": "47.2398, 19.1234",
+      "hossz": "400 m",
+      "weblap": "https://example.com/4",
+      "uzemelteto": "Gyermekvasút Alapítvány",
+      "alapitas": 1999,
+      "latogathatosag": "menetrend szerint látogatható",
+      "allapot": "működik"
+    },
+    {
+      "nev": "Minta Parkvasút 5",
+      "gps": "46.8234, 17.4567",
+      "hossz": "150 m",
+      "weblap": "https://example.com/5",
+      "uzemelteto": "Magánszemély",
+      "alapitas": 2015,
+      "latogathatosag": "magán (nem látogatható)",
+      "allapot": "nem üzemel"
+    },
+    {
+      "nev": "Minta Parkvasút 6",
+      "gps": "47.7890, 18.2345",
+      "hossz": "300 m",
+      "weblap": "https://example.com/6",
+      "uzemelteto": "Parkvasút Klub",
+      "alapitas": 2001,
+      "latogathatosag": "akár látogatható bizonyos körülmények között",
+      "allapot": "működik"
+    },
+    {
+      "nev": "Minta Parkvasút 7",
+      "gps": "46.7890, 19.4567",
+      "hossz": "600 m",
+      "weblap": "https://example.com/7",
+      "uzemelteto": "Kertvasút Egyesület",
+      "alapitas": 1995,
+      "latogathatosag": "menetrend szerint látogatható",
+      "allapot": "működik"
+    },
+    {
+      "nev": "Minta Parkvasút 8",
+      "gps": "47.1111, 18.9999",
+      "hossz": "100 m",
+      "weblap": "https://example.com/8",
+      "uzemelteto": "Helyi Vasútbarátok Köre",
+      "alapitas": 1988,
+      "latogathatosag": "magán (nem látogatható)",
+      "allapot": "nyoma is alig van"
+    }
+]

@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "nev": { "type": "string" },
+      "gps": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+, [0-9]+\\.[0-9]+$" },
+      "gps_pontossag": { "type": "integer", "enum": [0, 1] },
+      "hossz": { "type": "string", "pattern": "^[0-9]+ m$" },
+      "weblap": { "type": "string", "format": "uri" },
+      "uzemelteto": { "type": "string" },
+      "alapitas": { "type": "integer", "minimum": 1800, "maximum": 2100 },
+      "allapot": { "type": "string" },
+      "kulonlegesseg": { "type": "string" },
+      "jarmupark": { "type": "string" },
+      "latogathatosag": { "type": "string" },
+      "latogathatosag_leirasa": { "type": "string" },
+      "leiras": { "type": "string" }
+    },
+    "required": ["nev", "gps", "hossz", "weblap", "uzemelteto", "alapitas", "latogathatosag", "allapot"],
+    "additionalProperties": false
+  }
+}
