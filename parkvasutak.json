@@ -25,7 +25,13 @@
         "kulonlegesseg": "A legnagyobb kerti vasút Magyarországon. Van, hogy vonat rajongók is elhozhatják saját mozdonyukat egy-egy napra.",
         "latogathatosag": "menetrend szerint látogatható",
         "allapot": "működik",
-        "leiras": "A Magyar Vasúttörténeti Park Kerti Vasútja a legnagyobb kerti vasút Magyarországon. A kerti vasút mindenben próbálja hűen modellezni a valódi vasút működését, ezért a kereszteződésekben a miniatűr fénysorompók automatikusan pirosra váltva jelzik a vonat érkezését. A Nemzetközi Modellvasúti Szabályoknak minden szempontból megfelelő biztonsággal épült pályában elektronikus csomópontok szabályozzák a két, egyszerre közlekedő vonat haladását, elkerülve ezzel az összeütközést. <a href=\"https://vasuttortenetipark.hu/interaktiv-programok/#kerti-vasut\">(forrás)</a>"
+        "leiras": "A Magyar Vasúttörténeti Park Kerti Vasútja a legnagyobb kerti vasút Magyarországon. A kerti vasút mindenben próbálja hűen modellezni a valódi vasút működését, ezért a kereszteződésekben a miniatűr fénysorompók automatikusan pirosra váltva jelzik a vonat érkezését. A Nemzetközi Modellvasúti Szabályoknak minden szempontból megfelelő biztonsággal épült pályában elektronikus csomópontok szabályozzák a két, egyszerre közlekedő vonat haladását, elkerülve ezzel az összeütközést. <a href=\"https://vasuttortenetipark.hu/interaktiv-programok/#kerti-vasut\">(forrás)</a>",
+        "videok" : [
+            "https://www.youtube.com/watch?v=azq5rvU2y5w",
+            "https://www.youtube.com/watch?v=vxq_EkuMWKU",
+            "https://www.youtube.com/watch?v=aDRkGLL2jQ4",
+            "https://www.youtube.com/watch?v=aarVQ40pli8"
+        ]
     },
     {
         "nev": "Királyréti kerti vasút",
@@ -44,7 +50,12 @@
         "uzemelteto": "Katalinpusztai Kirándulóközpont és Erdei Iskola",
         "alapitas": 2016,
         "latogathatosag": "menetrend szerint látogatható",
-        "allapot": "működik"
+        "allapot": "működik",
+        "videok": [
+            "https://www.youtube.com/watch?v=5ztCBZxPz5Y",
+            "https://www.youtube.com/watch?v=wiS3qBJRg1c",
+            "https://www.youtube.com/watch?v=w8E8GNmEsQc"
+        ]
     },
     {
         "nev": "Keszthely - Történelmi modellvasút kiállítás és Vadászati Múzeum",
@@ -55,7 +66,13 @@
         "kulonlegesseg": "Itt található Közép-Európa legnagyobb terepasztala is",
         "latogathatosag": "menetrend szerint látogatható",
         "allapot": "működik",
-        "leiras": "Érdekesebb viszont a park másik oldalán létrehozott kertivasút pálya, ahol egy valódi szénnel fűtött gőzmozdony és egy \"akkumulátoros\" dízelmozdony vontatta kocsikon lehet parkvasutazni őszig. A vonatozás kb. 5-6 perces időtartamra, közel 500 méteres úton vehető igénybe."
+        "leiras": "Érdekesebb viszont a park másik oldalán létrehozott kertivasút pálya, ahol egy valódi szénnel fűtött gőzmozdony és egy \"akkumulátoros\" dízelmozdony vontatta kocsikon lehet parkvasutazni őszig. A vonatozás kb. 5-6 perces időtartamra, közel 500 méteres úton vehető igénybe.",
+        "videok": [
+            "https://www.youtube.com/watch?v=AfA7AQaL--Y",
+            "https://www.youtube.com/watch?v=iKGbrsrxEzY",
+            "https://www.youtube.com/watch?v=a_MFEZadZco",
+            "https://www.youtube.com/watch?v=IBiguAoWNSI"
+        ]
 
     },
     {
@@ -75,7 +92,12 @@
         "jarmupark": "dízel és gőzmozdony",
         "latogathatosag": "menetrend szerint látogatható",
         "allapot": "működik",
-        "leiras": "Az egész parkot bejáró, mesterséges tavunk mentén végigrobogó, alagúton és hídon átpöfögő minimozdony pontosan az, aminek látszik: az eredetivel minden apró részletében megegyező, valóban szénnel és vízzel működő igazi gőzmozdony – amely a masiniszta derekáig ér.<br/><br/>Főszezonon kívül gőzös helyett dízelmozdony húzza a szerelvényt."
+        "leiras": "Az egész parkot bejáró, mesterséges tavunk mentén végigrobogó, alagúton és hídon átpöfögő minimozdony pontosan az, aminek látszik: az eredetivel minden apró részletében megegyező, valóban szénnel és vízzel működő igazi gőzmozdony – amely a masiniszta derekáig ér.<br/><br/>Főszezonon kívül gőzös helyett dízelmozdony húzza a szerelvényt.",
+        "videok": [
+            "https://www.youtube.com/watch?v=jJEJBLXaSZQ",
+            "https://www.youtube.com/watch?v=6KzE3ILffZw",
+            "https://www.youtube.com/watch?v=GUCGO7kNLZE"
+        ]
     },
     {
         "nev": "Szigethalmi Vadaspark",
@@ -85,7 +107,11 @@
         "weblap": "https://www.szigethalmivadaspark.hu/kisvasut-2/",
         "leiras": "Van egy 5 colos pálya is. A másik vasútvonal 1kör teljes hossza jelenleg kb. 1000m. A nyomvonal szép erdei környezetben, gyönyörű vasúti hídon, majd egy alagúton vezet át. A vonat rendes sín profilú sínen közlekedik, TÜV minősített és egyszerre 30 személy szállítására alkalmas. Ezzel a vasúttal lehet eljutni a Vadmentő Központunkig. A teljes vasútvonalat a Vadaspark munkatársai építették, szintén egy vasúti mérnök segítségével. Az építési munkálatok 8 hónapot vettek igénybe.",
         "latogathatosag": "menetrend szerint látogatható",
-        "allapot": "működik"
+        "allapot": "működik",
+        "videok": [
+            "https://www.youtube.com/watch?v=CVYmQkIcD_M",
+            "https://www.youtube.com/watch?v=uDnwPdI_laI"
+        ]
     },
     {
         "nev": "Budakeszi Törpevasút",
@@ -96,7 +122,12 @@
         "weblap": "https://budakeszivadaspark.hu/hirek/torpevasut/", 
         "latogathatosag": "menetrend szerint látogatható",
         "allapot": "működik",
-        "leiras": "20 főt tud vinni egyszerre"
+        "leiras": "20 főt tud vinni egyszerre",
+        "videok": [
+            "https://www.youtube.com/watch?v=e0YnIg8oSBI",
+            "https://www.youtube.com/watch?v=oJGIryOMLks"
+
+        ]
     },         
     {
         "nev": "Dinnyés Várpark Kisvasút",
@@ -107,7 +138,12 @@
         "latogathatosag": "menetrend szerint látogatható",
         "jarmupark": "Kos és Jerke",
         "allapot": "működik",
-        "leiras": "Svájcból érkeztek a sínek, melyeken 400 köbcentis benzines Honda motoros mozdony húz négy kocsit. 20-30 fő tud utazni a vonaton, attól függően, hogy hány felnőtt és hány gyermek ül rá. A szerelvények menetrend szerint, fél óránként közlekednek, kényelmes tempóban: a fél kilométeres szakaszon 8-10 perc a menetidő. A vonat teljesen körbejárja a két hektáros Skanzent"
+        "leiras": "Svájcból érkeztek a sínek, melyeken 400 köbcentis benzines Honda motoros mozdony húz négy kocsit. 20-30 fő tud utazni a vonaton, attól függően, hogy hány felnőtt és hány gyermek ül rá. A szerelvények menetrend szerint, fél óránként közlekednek, kényelmes tempóban: a fél kilométeres szakaszon 8-10 perc a menetidő. A vonat teljesen körbejárja a két hektáros Skanzent",
+        "videok": [
+            "https://www.youtube.com/watch?v=VNfK7MvPLyA",
+            "https://www.youtube.com/watch?v=wDA0Fgt_gnw"
+
+        ]
     },         
     {
         "nev": "Malomkert Hotel és Étterem kertje",
@@ -117,13 +153,20 @@
         "latogathatosag": "menetrend szerint látogatható",
         "allapot": "működik",
         "leiras": "Ide készült a Vasúttörténeti park zöld, 1:3 építési arányú C50-es mozdonya.",
-        "kulonlegesseg": "Áthalad a Börzsöny-patak felett is hazánk legnagyobb kisvonat hídján."
+        "kulonlegesseg": "Áthalad a Börzsöny-patak felett is hazánk legnagyobb kisvonat hídján.",
+        "videok": [
+            "https://www.youtube.com/watch?v=ubgeMEDgYyg"
+        ]
     },         
     {
         "nev": "Igali termálfürdő",
         "gps": "46.5426688,17.9443054",
+        "hossz": "600 m",
+        "weblap": "https://termalonline.hu/termal-hirek/kisvasutat-adtak-az-igali-furdoben",
+        "alapitas": 2017,
         "latogathatosag": "menetrend szerint látogatható",  
-        "allapot": "nyoma is alig van"
+        "allapot": "nyoma is alig van",
+        "videok": ["https://www.youtube.com/watch?v=W3evg7JFhZw"]
     },
     
     {
@@ -159,6 +202,10 @@
         "hossz": "0 m",
         "weblap": "https://www.kozvilagitasregen.hu/l/epulo-kertivasutam/",
         "latogathatosag": "magán (nem látogatható)",
-        "allapot": "építés alatt"
+        "allapot": "építés alatt",
+        "videok": [
+            "https://www.youtube.com/shorts/BUBD_XT0tBY",
+            "https://www.youtube.com/watch?v=CbHtuTI8j1Q"
+        ]
     }
 ]

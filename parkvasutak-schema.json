@@ -16,7 +16,14 @@
       "jarmupark": { "type": "string" },
       "latogathatosag": { "type": "string" },
       "latogathatosag_leirasa": { "type": "string" },
-      "leiras": { "type": "string" }
+      "leiras": { "type": "string" },
+      "videok": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^(https?://)?(www\\.)?(youtube\\.com|youtu\\.be)/.+$"
+        }
+      }
     },
     "required": ["nev", "gps", "latogathatosag", "allapot"],
     "additionalProperties": false

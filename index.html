@@ -167,6 +167,20 @@ data.slice(1).forEach((vasut, index) => {
       <p><strong>Állapot:</strong> ${statusIcons[vasut.allapot] || ''} ${vasut.allapot}</p>
       ${vasut.jarmupark_leirasa ? `<p><strong>Járműpark leírása:</strong> ${vasut.jarmupark_leirasa}</p>` : ''}
       ${vasut.leiras ? `<p><strong>Leírás:</strong> ${vasut.leiras}</p>` : ''}
+    ${vasut.videok && vasut.videok.length > 0 ? `
+        <div class="videos">
+            <h4>Videók:</h4>
+            <div class="d-flex flex-wrap">
+                ${vasut.videok.map(video => `
+                    <div class="video-thumbnail me-2 mb-2">
+                        <a href="${video}" target="_blank">
+                            <img src="https://img.youtube.com/vi/${video.split('v=')[1]}/hqdefault.jpg" alt="Video Thumbnail" style="width: 120px; height: 90px; object-fit: cover;">
+                        </a>
+                    </div>
+                `).join('')}
+            </div>
+        </div>
+    ` : ''}
       <hr>
     `;
     teljesLista.appendChild(section);
