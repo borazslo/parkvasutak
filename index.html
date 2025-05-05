@@ -149,6 +149,7 @@ data.slice(1).forEach((vasut, index) => {
     marker.bindPopup(`
         <a href='#${anchor}'><strong>${vasut.nev}</strong></a>
         ${vasut.gps_pontossag === 0 ? `<br><span class="text-warning"><strong>Figyelem:</strong> Hozzávetőleges pozíció</span>` : ''}
+        ${vasut.nyomtav && vasut.nyomtav !== '184 mm' ? `<p><strong>Nyomtáv:</strong> ${vasut.nyomtav}</p>` : ''}
     `);
     bounds.push([lat, lon]);
 
@@ -159,6 +160,7 @@ data.slice(1).forEach((vasut, index) => {
       <h3>${vasut.nev} ${statusIcons[vasut.allapot] || ''}</h3>
       <p><strong>GPS:</strong> ${vasut.gps} ${vasut.gps_pontossag === 0 ? `<span class="text-warning"><strong>Figyelem:</strong> Hozzávetőleges pozíció</span>` : ''}</p>
       <p><strong>Hossz:</strong> ${vasut.hossz}</p>
+      <p><strong>Nyomtáv:</strong> ${vasut.nyomtav || '184 mm'}</p>
       <p><strong>Weblap:</strong> <a href="${vasut.weblap}" target="_blank">${vasut.weblap}</a></p>
       <p><strong>Üzemeltető/Tulajdonos:</strong> ${vasut.uzemelteto}</p>
       <p><strong>Alapítás éve:</strong> ${vasut.alapitas}</p>

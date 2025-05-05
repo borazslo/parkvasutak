@@ -7,6 +7,10 @@
       "nev": { "type": "string" },
       "gps": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+,.[0-9]+\\.[0-9]+$" },
       "gps_pontossag": { "type": "integer", "enum": [0, 1] },
+      "nyomtav": {
+        "type": "string",
+        "pattern": "^(\\d+ mm|\\d+(\\.\\d+)? inch)$"
+      },
       "hossz": { "type": "string", "pattern": "^[0-9]+ m$" },
       "weblap": { "type": "string", "format": "uri" },
       "uzemelteto": { "type": "string" },
