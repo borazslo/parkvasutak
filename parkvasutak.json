@@ -237,5 +237,18 @@
         "videok": [
             "https://www.youtube.com/watch?v=f2TLdEzICiM"
         ]
+    },
+    {
+        "nev": "Tündér a vonaton",
+        "uzemelteto": "Bálint Ágnes Emlékház",
+        "gps": "47.4003721,19.2503174",
+        "allapot":"működik",
+        "latogathatosag": "menetrend szerint látogatható",
+        "latogathatosag_leirasa": "Megfelelő számú jelentkező esetén is csak akkor tud indulni, ha nem áll esőre az idő, és főleg ha a „masinisztája” éppen kéznél van, mert a munkája nem köti máshová. Fesztiválok idején jár a pici vonat, de szülinapok, rendezvények idején a funkció nem automatikus - pontos egyeztetést igényel. ",
+        "kulonlegesseg": "Ez egy mesevonat Bálint Ágnes egyik meseregénye alapján",
+        "weblap": "http://balintagnesemlekhaz.hu/site/index.php?mid=4",
+        "videok": [
+            "https://youtu.be/IDnYELgniBc?si=LsJZ1ZFHVwNu1GPt&t=196"
+        ]
     }
 ]
