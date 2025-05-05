@@ -54,7 +54,8 @@
         "videok": [
             "https://www.youtube.com/watch?v=5ztCBZxPz5Y",
             "https://www.youtube.com/watch?v=wiS3qBJRg1c",
-            "https://www.youtube.com/watch?v=w8E8GNmEsQc"
+            "https://www.youtube.com/watch?v=w8E8GNmEsQc",
+            "https://www.youtube.com/watch?v=4ppd8nmnCOs"
         ]
     },
     {
@@ -65,8 +66,7 @@
         "weblap": "https://festeticskastely.hu/belepojegy-arak/",
         "kulonlegesseg": "Itt található Közép-Európa legnagyobb terepasztala is",
         "latogathatosag": "menetrend szerint látogatható",
-        "allapot": "működik",
-        "leiras": "Érdekesebb viszont a park másik oldalán létrehozott kertivasút pálya, ahol egy valódi szénnel fűtött gőzmozdony és egy \"akkumulátoros\" dízelmozdony vontatta kocsikon lehet parkvasutazni őszig. A vonatozás kb. 5-6 perces időtartamra, közel 500 méteres úton vehető igénybe.",
+        "allapot": "működik",        
         "videok": [
             "https://www.youtube.com/watch?v=AfA7AQaL--Y",
             "https://www.youtube.com/watch?v=iKGbrsrxEzY",
@@ -207,5 +207,20 @@
             "https://www.youtube.com/shorts/BUBD_XT0tBY",
             "https://www.youtube.com/watch?v=CbHtuTI8j1Q"
         ]
+    },
+    {
+        "nev": "Oxygen Express",
+        "gps": "47.84828, 19.96194",
+        "uzemelteto": "Oxygen Adrenalin Park",
+        "hossz": "1000 m",
+        "jarmupark": "dízel mozdony és 2 kocsi",
+        "weblap": "https://adrenalin-park.hu/oxygen-express",
+        "allapot":"működik",
+        "latogathatosag": "menetrend szerint látogatható",
+        "leiras": "A dízelüzemű mozdonyból és 2 kocsiból álló szerelvényen 24 utas fér el egyszerre.<br/>A kőbánya katlanát bejáró, a tavacskáink mentén végigrobogó, hídon átgördülő liliputi szerelvény feledhetetlen élményt ígér a közel 1 km-es körpályán.        Út közben megnézheted a többiek vízi csatározását, vagy éppen az óriás hintával való zuhanását, vagy ha ahhoz van kedved, csak gyönyörködhetsz a tavirózsák virágzásában.",
+        "videok": [
+            "https://www.youtube.com/watch?v=Ce6mhuXQ-u4"
+        ]
+
     }
 ]
