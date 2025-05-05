@@ -96,7 +96,9 @@
         "videok": [
             "https://www.youtube.com/watch?v=jJEJBLXaSZQ",
             "https://www.youtube.com/watch?v=6KzE3ILffZw",
-            "https://www.youtube.com/watch?v=GUCGO7kNLZE"
+            "https://www.youtube.com/watch?v=GUCGO7kNLZE",
+            "https://www.youtube.com/watch?v=L5Y7lMkTxbo",
+            "https://www.youtube.com/watch?v=MgVz-zsj-pw"
         ]
     },
     {
@@ -222,5 +224,18 @@
             "https://www.youtube.com/watch?v=Ce6mhuXQ-u4"
         ]
 
+    },
+    {
+        "nev": "Park Express",
+        "uzemelteto": "Nosztori Kalandpark",
+        "hossz": "1000 m",
+        "gps": "47.0097422,17.897095",
+        "allapot":"működik",
+        "latogathatosag": "menetrend szerint látogatható",
+        "weblap": "https://www.balatonielmenypark.hu/jatekaink/",
+        "leiras": " A közel 1 km hosszú pálya végighalad a park területén, eltűnik a vasúti alagútban, majd újra előbukkan Nosztori állomásnál.",
+        "videok": [
+            "https://www.youtube.com/watch?v=f2TLdEzICiM"
+        ]
     }
 ]
