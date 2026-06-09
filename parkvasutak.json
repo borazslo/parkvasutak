@@ -252,5 +252,22 @@
         "videok": [
             "https://youtu.be/IDnYELgniBc?si=LsJZ1ZFHVwNu1GPt&t=196"
         ]
+    },
+    {        
+        "nev": "Pusztaszabolcsi Vasúti Gyűjtemény",
+        "uzemelteto": "Pálinkás József",
+        "gps": "47.129801,18.764653",
+        "gps_pontossag": 0,
+        "hossz": "800 m",
+        "nyomtav": "600 mm",
+        "allapot":"működik",
+        "jarmupark": "4 mozdony és több kocsi",
+        "latogathatosag": "telefonon előre egyeztetve",
+        "kulonlegesseg": "Ez egy vasúti magángyűjtemény része. A műszaki emlékeket tartalmazó gyűjtemény felkerült a Fejér megyei értéktár listájára is.",
+        "leiras": "Pusztaszabolcs, mint vasutas település, tökéletes helynek bizonyult arra, hogy a vasútas kincsek állandó otthonra leljenek. Itt, a nagyvasút mellett sikerült kialakítani egy különleges udvart: egy miniatűr vasúti birodalmat. Akkoriban egy már leállított téglagyárból jött egy leselejtezett kis mozdony, és hozzá két kocsi, később pedig felajánlásként sínanyag és váltókar. Ezzel megindulhatott a vasútépítés. Van itt kb. 800 méternyi kiépített keskeny nyomtávú pálya, 4 mozdony (köztük 1 motoros hajtású, amely akár 20 km/h-val is száguld, és két utast kényelmesen elbír), valamint számtalan vasúti tárgy és emlék.",
+        "weblap": "https://geocaching.hu/caches.geo?id=6651",
+        "videok": [
+            "https://www.youtube.com/watch?v=VmtmvW7nyzE"
+        ]
     }
 ]
