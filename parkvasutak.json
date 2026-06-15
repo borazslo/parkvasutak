@@ -30,7 +30,6 @@
         "videok" : [
             "https://www.youtube.com/watch?v=azq5rvU2y5w",
             "https://www.youtube.com/watch?v=vxq_EkuMWKU",
-            "https://www.youtube.com/watch?v=aDRkGLL2jQ4",
             "https://www.youtube.com/watch?v=aarVQ40pli8"
         ]
     },
@@ -54,7 +53,6 @@
         "allapot": "működik",
         "videok": [
             "https://www.youtube.com/watch?v=5ztCBZxPz5Y",
-            "https://www.youtube.com/watch?v=wiS3qBJRg1c",
             "https://www.youtube.com/watch?v=w8E8GNmEsQc",
             "https://www.youtube.com/watch?v=4ppd8nmnCOs"
         ]
@@ -156,10 +154,7 @@
         "latogathatosag": "menetrend szerint látogatható",
         "allapot": "működik",
         "leiras": "Ide készült a Vasúttörténeti park zöld, 1:3 építési arányú C50-es mozdonya.",
-        "kulonlegesseg": "Áthalad a Börzsöny-patak felett is hazánk legnagyobb kisvonat hídján.",
-        "videok": [
-            "https://www.youtube.com/watch?v=ubgeMEDgYyg"
-        ]
+        "kulonlegesseg": "Áthalad a Börzsöny-patak felett is hazánk legnagyobb kisvonat hídján."
     },         
     {
         "nev": "Igali termálfürdő",
